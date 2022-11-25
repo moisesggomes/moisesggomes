@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-- 🌱 I’m currently learning Programming with CS50 course
+- 🌱 I took CS50
 - 🤔 I am very curious
-- 📫 How to reach me: @moisesggomes
+- 📫 How to reach me: moisesgomes1112pro@gmail.com
 - 😄 Fun fact: I like to play trumpet 🎺🎵🎵🎵
